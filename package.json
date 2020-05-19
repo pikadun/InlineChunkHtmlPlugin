@@ -1,0 +1,19 @@
+{
+  "name": "inline-chunk-html-plugin",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "tsc --build ./tsconfig.json"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^14.0.1",
+    "typescript": "^3.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pikadun/InlineChunkHtmlPlugin"
+  },
+  "dependencies": {},
+  "types": "index.d.ts"
+}
