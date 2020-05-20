@@ -1,6 +1,6 @@
-export = inline_chunk_html_plugin;
+export = InlineChunkHtmlPlugin;
 
-declare class inline_chunk_html_plugin {
+declare class InlineChunkHtmlPlugin {
     constructor(...args: any[]);
 
     apply(...args: any[]): void;
