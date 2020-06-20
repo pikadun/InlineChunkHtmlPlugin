@@ -10,7 +10,7 @@ It works in tandem with [HtmlWebpackPlugin](https://github.com/ampedandwired/htm
 ```js
 var path = require('path');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
-var InlineChunkHtmlPlugin = require('react-dev-utils/InlineChunkHtmlPlugin');
+var InlineChunkHtmlPlugin = require('inline-chunk-html-plugin');
 
 // webpack config
 var publicUrl = '/my-custom-url';
